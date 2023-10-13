@@ -2,7 +2,8 @@
 [1]: https://discord.gg/PG2re4Zb4h
 <!-- The image url we want to use for our img tag source -->
 [2]: https://discordapp.com/api/guilds/564559681339785228/widget.png?style=shield
-
+[3]: https://gdsc.community.dev/north-seattle-college/
+[4]: https://img.shields.io/badge/google-dev_club-blue?logo=google&labelColor=%23FFFFFF
 <!--
 This will compile to two html nodes:
   Anchor:   [linked item][1]: <a href="1">linked item</a>
@@ -10,6 +11,7 @@ This will compile to two html nodes:
 The image node will be nested inside of the anchor node.
 -->
 [![NSCS discord server link][2]][1]
+[![NSCS Google Dev Club link][4]][3]
 
 The North Seattle College Computer Science Club is a group of students and faculty with a passion for Computer Science. It is open to people of all skill levels, educational pathways, and there are no attendance or participation requirements. We host events like workshops, meetings, game nights, hackathons, and club projects. 
 
